@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Obstacles
+  - Obstacles Vertical
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Spawnable
+  - Obstacles
+  - QuestionBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background_Wallpaper
+    uniqueID: 1927310299
+    locked: 0
+  - name: Background_Hill_Mount
+    uniqueID: 909309457
+    locked: 0
+  - name: Background_Grass
+    uniqueID: 3147523183
+    locked: 0
+  - name: Background
+    uniqueID: 1397152969
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Goomba Layer
+    uniqueID: 3959186453
+    locked: 0
+  - name: Mario Layer
+    uniqueID: 2668089911
+    locked: 0
+  - name: Item Layer
+    uniqueID: 2327764709
+    locked: 0
